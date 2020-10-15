@@ -10,3 +10,7 @@ for x in range(1,2**26-1):
     sol_taraf += 1/x**2
 value_pi = math.sqrt(6*sol_taraf)
 print("pi sayısının yaklaşık değeri: ",value_pi)
+
+
+# sonsuz konusunu derste bana hatırlat lütfen, herkes öğrenmiş olsun
+# burada 2** sayısını neden bu rakam aldın anlamadım, gereksiz yere programı yormuşsun. 

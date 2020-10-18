@@ -14,3 +14,6 @@ print("pi sayısının yaklaşık değeri: ",value_pi)
 
 # sonsuz konusunu derste bana hatırlat lütfen, herkes öğrenmiş olsun
 # burada 2** sayısını neden bu rakam aldın anlamadım, gereksiz yere programı yormuşsun. 
+
+# Hocam int'in max değerini baz alıp 2'nin üssünü bir bir azaltayım dedim çünkü değeri
+# arttırdıkça pi'nin değeri daha da yakın oluyordu.

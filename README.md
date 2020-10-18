@@ -1,1 +1,1 @@
-#### ***Ödev olarak verildikleri haftalara göre ayırdım***
+#### ***Ödevleri verildikleri haftalara göre ayırdım***
